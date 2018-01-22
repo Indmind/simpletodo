@@ -1,0 +1,6 @@
+package: github.com/indmind/simpletodo
+import:
+- package: gopkg.in/echo.v3
+  version: ^3.0.3
+- package: github.com/labstack/echo
+  version: ^3.2.6
